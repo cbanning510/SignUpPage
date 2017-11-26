@@ -1,2 +1,2 @@
 # SignUpPage
-SignUp page using html, css, vanilla JS
+example SignUp web page using html, css, vanilla JS
